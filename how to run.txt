@@ -1,0 +1,3 @@
+java -jar sd.jar score
+
+score is optional (displays the scores for serious/sarcastic)
